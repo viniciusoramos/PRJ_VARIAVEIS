@@ -10,7 +10,7 @@ int main(void){
     printf("Minha variável constante = %d\n\n", MAX_NUM);
     printf("Minha constante = %f\n", PI);
     
-    MAX_NUM = 99;
+    //MAX_NUM = 99;
     
     
     
